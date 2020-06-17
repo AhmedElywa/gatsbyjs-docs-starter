@@ -59,4 +59,8 @@ It's React UI components packages you can see full components and how to use the
 
 Add your md file inside `src/pages` then add to menu inside `src/Layouts/menuItem.ts`
 
+## Make React component examples
+
+[Example](demo://../components/Buttons.tsx)
+
 </MdxCard>

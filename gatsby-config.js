@@ -28,6 +28,12 @@ module.exports = {
         remarkPlugins: [remarkSlug],
         gatsbyRemarkPlugins: [
           {
+            resolve: 'gatsby-plugin-mdx-code-demo-oah',
+            options: {
+              demoComponent: path.resolve('./src/components/ExampleLayout'),
+            },
+          },
+          {
             resolve: 'gatsby-remark-prismjs',
             options: {
               classPrefix: 'language-',
