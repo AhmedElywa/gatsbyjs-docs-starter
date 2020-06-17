@@ -12,3 +12,5 @@ yarn dev
 ```
 
 ## look to demo home page to know how to start your docs
+
+![screenshot](./screenshot.png)
